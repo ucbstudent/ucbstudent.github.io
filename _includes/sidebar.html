@@ -43,22 +43,16 @@ styles and `#sidebar-toggle-checkbox` for behavior.
     </a>
     {% endfor %}
 
-    <a class="sidebar-nav-item" 
-      href="http://github.com/{{ site.theme.social.github }}"
-      target="_blank">
-      GitHub/Download
-    </a>
-
   </nav>
 
   <div class="sidebar-info small">
      <p>
-       Made by <a href="http://gayan.me" target="_blank">Gayan Virajith</a> For everyone.
-       Powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
+     Creating using the
+     <a href="https://github.com/gayanvirajith/gaya">Gayan</a> style by
+     <a href="http://gayan.me" target="_blank">Gayan Virajith</a>.  Powered by
+     <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
      </p>
   </div>
-
-  {% include social.html %}
 
 </div>
 {% endcapture %}{{ sidebar | strip_newlines }}
