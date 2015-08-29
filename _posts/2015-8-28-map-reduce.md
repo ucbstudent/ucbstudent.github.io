@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Map Reduce: Simplified Data Processing on Large Clusters"
-date:   2015-8-27 15:00
+date:   2015-8-28 20:00
 permalink: map-reduce
 ---
 
