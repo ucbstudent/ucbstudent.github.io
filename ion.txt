@@ -1,0 +1,13 @@
+1) Is the problem real?
+
+2) What is the solution’s main idea (nugget)?
+
+3) Why is solution different from previous work?
+»Are system assumptions different?
+»Is workload different?
+»Is problem new?
+
+4) Does the paper (or do you) identify any fundamental/hard trade-offs? 
+
+5) Do you think the paper will be influential in 10 years? Why or why not?
+
