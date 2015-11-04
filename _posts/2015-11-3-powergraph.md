@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spanner"
+title:  "PowerGraph"
 date:   2015-11-3 21:00
 permalink: PowerGraph
 ---
